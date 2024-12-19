@@ -6,7 +6,7 @@ A java project to customize the look-and-feel of a JComboBox and how it behaves.
 |:---------|---------:|
 | Java     | 23.0.1.0 |
 | IntelliJ | 2024.3.1 |
-| VSCode   |   1.96.0 |
+| VSCode   |   1.96.2 |
 
 ## Change History
 
