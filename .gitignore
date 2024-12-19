@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea/
+application-log.txt
 
 ### Eclipse ###
 .apt_generated
@@ -29,3 +30,4 @@ bin/
 ### Mac OS ###
 .DS_Store/C:/projects/java/Dropdown Listbox Example/.idea
 /C:/projects/java/Dropdown Listbox Example/.idea
+/c:/projects/java/Dropdown Listbox Example/application-log.txt
