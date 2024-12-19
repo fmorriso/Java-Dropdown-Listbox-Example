@@ -16,3 +16,5 @@ A java project to customize the look-and-feel of a JComboBox and how it behaves.
 
 ## References
 
+## Notes
+

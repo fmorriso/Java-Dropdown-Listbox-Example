@@ -1,6 +1,9 @@
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * A class to make the contents of a JComboBox&lt;String&gt; render those values centered horizontally.
+ */
 public class CenteredCellRenderer extends DefaultListCellRenderer {
     @Override
     public Component getListCellRendererComponent(
